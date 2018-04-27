@@ -1,0 +1,12 @@
+This project is going to simulate an arduino car with sensor data over a websocket.
+
+- Import socket.io library
+- have the view pump out data based on controls
+- allow for automatic data to be sent, randomized.
+
+view:
+- speed slider
+- three? distance sliders
+
+
+-- add bootstrap or material for UI
